@@ -1,5 +1,0 @@
-{
-  "name": "Safira Voice",
-  "description": "CRM de Voz com IA para vendas e atendimento automatizado.",
-  "requestFramePermissions": ["microphone"]
-}
